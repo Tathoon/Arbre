@@ -1,5 +1,9 @@
 George V
 
+George, fils de George V
+
+Henry, fils de George V
+
 Mary, fille de George V
 
 Édouard VIII, fils de George V
@@ -7,15 +11,20 @@ Mary, fille de George V
 John, fils de George V
 
 Georges VI, fils de George V
+
 Margaret, fille de Georges VI
+
 Elisabeth II, fille de George VI
 
 Andrew, fils Elisabeth II
-
 
 Anne, fille de Elisabeth II
 
 Edward, fils d'Elizabeth II
 
+Beatrice, fille de Andrew
 
 Eugenie, fille de Andrew
+
+Elisabeth II, fille de George VI
+
